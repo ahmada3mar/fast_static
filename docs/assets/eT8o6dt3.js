@@ -1,1 +1,0 @@
-import{d as _,e as c,f as s}from"./AAO-_G6i.js";import{_ as r,c as a,b as o,o as m}from"./BNwSDX9P.js";import"./Bx69ezl9.js";import"./DdslgsYE.js";import"./DXyPM1Kx.js";const p={},f={class:"flex flex-col h-full"};function i(l,x){const n=_,e=c,t=s;return m(),a("div",f,[o(n),o(e),o(t)])}const v=r(p,[["render",i]]);export{v as default};
