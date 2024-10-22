@@ -1,0 +1,23 @@
+.card-img {
+  position: relative;
+  filter: brightness(0.7);
+}
+
+.with-icon:hover .iconify{
+  color: black;
+}
+
+/* .card-img::before {
+  content: '';
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: 0.3;
+} */
+
+.lazy-image.loaded {
+  opacity: 1;
+}
