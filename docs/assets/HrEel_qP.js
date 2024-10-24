@@ -1,1 +1,0 @@
-import{d as c,e as _,f as s}from"./DYMU20si.js";import{_ as r,c as a,b as o,o as m}from"./CMqvb1Hn.js";import"./DptmGzVh.js";import"./CJdBq7Pq.js";import"./DAdYcEBJ.js";const p={},f={class:"flex flex-col h-full"};function i(l,d){const n=c,e=_,t=s;return m(),a("div",f,[o(n),o(e),o(t)])}const v=r(p,[["render",i]]);export{v as default};
