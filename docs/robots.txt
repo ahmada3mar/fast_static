@@ -5,5 +5,4 @@ Disallow: /admin/
 Disallow: /private/
 
 Sitemap: https://www.goodview-moving.com/sitemap.xml
-Sitemap: https://www.goodviw-moving.com/sitemap.xml
 # END nuxt-robots
